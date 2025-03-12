@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+.env
+*.pyc
+*.log
+*.csv
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.h5

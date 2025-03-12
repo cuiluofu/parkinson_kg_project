@@ -1,0 +1,8 @@
+
+interchange==2021.0.4
+monotonic==1.6
+neo4j==5.28.1
+pansi==2024.11.0
+py2neo==2021.2.4
+
+
