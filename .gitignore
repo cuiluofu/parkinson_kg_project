@@ -8,3 +8,6 @@ __pycache__/
 *.pt
 *.pth
 *.h5
+data/umls/
+data/umls/*.RRF
+data/umls/*.zip
